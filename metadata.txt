@@ -1,0 +1,15 @@
+[general]
+name=Extrator XLSX
+qgisMinimumVersion=3.0
+description=Extrai camada ativa para formato XLSX com um clique
+version=1.0
+author=Gabriel Oliveira
+email=gabriel.oliveira@conasa.com
+about=Botão para exportar dados da tabela de atributos para planilha Excel.
+tracker=
+repository=
+tags=python,excel,export
+category=Vector
+icon=icon.png
+experimental=False
+deprecated=False
