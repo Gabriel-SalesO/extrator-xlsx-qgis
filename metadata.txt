@@ -1,14 +1,15 @@
 [general]
-name=Extrator XLSX
+name=Extrator XLSX - PONTO_IP
 qgisMinimumVersion=3.0
-description=Extrai camada ativa para formato XLSX com um clique
+qgisMaximumVersion=4.99
+description=Exporta a camada PONTO_IP para um arquivo XLSX na pasta Downloads com um clique
 version=1.0
-author=Gabriel Oliveira
-email=gabriel.oliveira@conasa.com
-about=Botão para exportar dados da tabela de atributos para planilha Excel.
-tracker=
-repository=
-tags=python,excel,export
+author=Gabriel Sales de Oliveira
+email=gabrielsales26@gmail.com
+about=Botao dedicado na barra de ferramentas do QGIS para exportar automaticamente a camada PONTO_IP para a pasta Downloads do usuario, em formato XLSX. Compativel com QGIS 3.x e QGIS 4.x.
+tracker=https://github.com/Gabriel-SalesO/extrator-xlsx-qgis/issues
+repository=https://github.com/Gabriel-SalesO/extrator-xlsx-qgis
+tags=python,excel,export,xlsx,ponto_ip
 category=Vector
 icon=icon.png
 experimental=False
