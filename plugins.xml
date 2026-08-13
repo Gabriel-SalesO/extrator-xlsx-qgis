@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<plugins>
+  <pyqgis_plugin name="Extrator XLSX - PONTO_IP" version="1.0">
+    <description>Exporta a camada PONTO_IP para um arquivo XLSX na pasta Downloads com um clique</description>
+    <about>Botao dedicado na barra de ferramentas do QGIS para exportar automaticamente a camada PONTO_IP para a pasta Downloads do usuario, em formato XLSX. Compativel com QGIS 3.x e QGIS 4.x.</about>
+    <version>1.0</version>
+    <qgisMinimumVersion>3.0</qgisMinimumVersion>
+    <qgisMaximumVersion>4.99</qgisMaximumVersion>
+    <homepage>https://github.com/Gabriel-SalesO/extrator-xlsx-qgis</homepage>
+    <file_name>extratorxslx.1.0.zip</file_name>
+    <icon>icon.png</icon>
+    <author_name>Gabriel Sales</author_name>
+    <download_url>https://github.com/Gabriel-SalesO/extrator-xlsx-qgis/releases/download/v1.0/extratorxslx.1.0.zip</download_url>
+    <uploaded_by>Gabriel-SalesO</uploaded_by>
+    <create_date>2026-08-13T16:00:00</create_date>
+    <experimental>False</experimental>
+    <deprecated>False</deprecated>
+    <tracker>https://github.com/Gabriel-SalesO/extrator-xlsx-qgis/issues</tracker>
+    <repository>https://github.com/Gabriel-SalesO/extrator-xlsx-qgis</repository>
+    <tags>python,excel,export,xlsx,ponto_ip</tags>
+    <server>False</server>
+  </pyqgis_plugin>
+</plugins>
